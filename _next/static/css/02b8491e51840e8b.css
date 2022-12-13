@@ -216,11 +216,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/cone.e0974e92.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 100px;
+	height: 15px;
 	position: absolute;
-	left: 380px;
-	top: 450px;
+	left: 300px;
+	top: 410px;
 }
 
 .Home_connectBtn__q4_OB:hover {
@@ -228,11 +228,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/cone.e0974e92.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 100px;
+	height: 15px;
 	position: absolute;
-	left: 380px;
-	top: 450px;
+	left: 300px;
+	top: 410px;
 }
 
 .Home_connectBtn__q4_OB:active {
@@ -240,11 +240,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/cone.e0974e92.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 100px;
+	height: 15px;
 	position: absolute;
-	left: 380px;
-	top: 450px;
+	left: 300px;
+	top: 410px;
 }
 
 .Home_loadingBtn__vAScy {
@@ -748,20 +748,20 @@ a {
 	width: 90px;
 	height: 70px;
 	position: absolute;
-	left: 280px;
-	top: 600px;
+	left: 200px;
+	top: 520px;
 }
 
 .Home_dcIcon__DDy4R {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/madura.b8bf039e.jpg);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/dc.9a3fd0d3.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 70px;
+	height: 50px;
 	position: absolute;
-	left: 380px;
-	top: 600px;
+	left: 300px;
+	top: 520px;
 }
 
 .Home_fbIcon__HDaE7 {
@@ -769,11 +769,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/fb.5123d341.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 70px;
+	height: 50px;
 	position: absolute;
-	left: 480px;
-	top: 600px;
+	left: 400px;
+	top: 520px;
 }
 
 .Home_gitIcon__L23x5 {
@@ -781,11 +781,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/screenshot.3280.eddd858c.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 70px;
+	height: 50px;
 	position: absolute;
-	left: 580px;
-	top: 600px;
+	left: 420px;
+	top: 540px;
 }
 
 
