@@ -180,11 +180,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/cn.f4421252.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
+	width: 100px;
 	height: 50px;
 	position: absolute;
-	left: 180px;
-	top: 200px;
+	left: 200px;
+	top: 450px;
 }
 
 .Home_connectBtn__q4_OB:hover {
@@ -192,10 +192,10 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/cn1.f4421252.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 100px;
+	height: 50px;
 	position: absolute;
-	left: 380px;
+	left: 200px;
 	top: 450px;
 }
 
@@ -204,10 +204,10 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/cn2.f4421252.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 100px;
+	height: 50px;
 	position: absolute;
-	left: 380px;
+	left: 200px;
 	top: 450px;
 }
 
