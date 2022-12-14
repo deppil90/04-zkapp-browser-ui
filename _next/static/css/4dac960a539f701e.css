@@ -167,7 +167,7 @@ a {
 
 .Home_banner__WnS5R {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/gar1.6e42148c.jpg);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/bgr.87a06d9c.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 800px;
@@ -183,11 +183,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/cn1.fe2ccdf3.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 230px;
-	height: 60px;
+	width: 60px;
+	height: 30px;
 	position: absolute;
-	left: 980px;
-	bottom: 600px;
+	left: 100px;
+	bottom: 60px;
 }
 
 .Home_connectBtn__q4_OB:hover {
@@ -195,11 +195,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/cn2.fe2ccdf3.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 230px;
-	height: 60px;
+	width: 60px;
+	height: 30px;
 	position: absolute;
-	left: 980px;
-	bottom: 600px;
+	left: 100px;
+	bottom: 60px;
 }
 
 
