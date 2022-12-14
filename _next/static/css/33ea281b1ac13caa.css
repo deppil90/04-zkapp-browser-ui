@@ -562,11 +562,11 @@ a {
 
 .Home_teleIcon__qLDZz {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/tele.b06ad72a.jpg);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/tele.56b41c59.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 70px;
+	height: 50px;
 	position: absolute;
 	left: 280px;
 	top: 600px;
@@ -574,11 +574,11 @@ a {
 
 .Home_dcIcon__DDy4R {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/dc.71923360.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/dc.4a8ddd4d.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 70px;
+	height: 50px;
 	position: absolute;
 	left: 380px;
 	top: 600px;
@@ -589,8 +589,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/gth.eddd858c.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 70px;
+	height: 50px;
 	position: absolute;
 	left: 580px;
 	top: 600px;
