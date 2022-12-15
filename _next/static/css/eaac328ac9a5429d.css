@@ -52,11 +52,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/br.d70d0450.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 520px;
+	width: 450px;
 	height: 130px;
 	position: absolute;
 	left: 200px;
-	top: 540px;
+	top: 600px;
 }
 
 .Home_blank__VvP8P {
@@ -217,10 +217,10 @@ a {
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 160px;
-	height: 73px;
+	height: 70px;
 	position: absolute;
-	left: 380px;
-	top: 450px;
+	left: 400px;
+	top: 400px;
 }
 
 .Home_connectBtn__q4_OB:hover {
@@ -745,7 +745,7 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/tele.76b69800.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 70px;
+	width: 90px;
 	height: 70px;
 	position: absolute;
 	left: 580px;
@@ -757,7 +757,7 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/dc.4a8ddd4d.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 70px;
+	width: 90px;
 	height: 70px;
 	position: absolute;
 	left: 580px;
@@ -769,7 +769,7 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/fb.7a78fdc5.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 70px;
+	width: 90px;
 	height: 70px;
 	position: absolute;
 	left: 580px;
