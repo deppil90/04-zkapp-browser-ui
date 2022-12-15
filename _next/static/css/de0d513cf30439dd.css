@@ -180,7 +180,7 @@ a {
 	justify-content: center;
 	margin-left: auto;
 	margin-right: auto;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/zk2.0381240f.jpg);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/br2.d70d0450.jpg);
 	background-repeat: no-repeat;
 	position: absolute;
 	width: 608px;
@@ -201,7 +201,7 @@ a {
 
 .Home_banner2__nEGJg {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/br2.d70d0450.jpg);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/zk2.0381240f.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 250px;
@@ -745,8 +745,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/tele.76b69800.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 50px;
+	height: 40px;
 	position: absolute;
 	left: 580px;
 	top: 600px;
@@ -757,8 +757,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/dc.4a8ddd4d.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 50px;
+	height: 40px;
 	position: absolute;
 	left: 580px;
 	top: 600px;
@@ -769,8 +769,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/fb.7a78fdc5.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 50px;
+	height: 40px;
 	position: absolute;
 	left: 580px;
 	top: 600px;
@@ -784,7 +784,7 @@ a {
 	width: 50px;
 	height: 40px;
 	position: absolute;
-	left: 500px;
+	left: 580px;
 	top: 600px;
 }
 
